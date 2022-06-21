@@ -7,3 +7,6 @@ Infineon Technologies Germany
 Infosys	India
 Intel	United States of America
 Intuit	United States of America
+
+Intel	United States of America
+Intuit	United States of America
