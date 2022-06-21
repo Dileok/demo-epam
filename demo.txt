@@ -8,4 +8,9 @@ Infosys	India
 Intel	United States of America
 Intuit	United States of America
 
+<<<<<<< HEAD
 git revert from remote repository
+=======
+Intel	United States of America
+Intuit	United States of America
+>>>>>>> 96bd71892ff207eada755b57bcc5ff9ec01fe1b1
