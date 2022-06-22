@@ -18,3 +18,8 @@ Intuit	United States of America
 =======
 >>>>>>> parent of 5c83523 (git revert)
 
+Infineon Technologies Germany
+Infosys	India
+Intel	United States of America
+Intuit	United States of America
+
