@@ -18,14 +18,3 @@ Intuit	United States of America
 =======
 >>>>>>> parent of 5c83523 (git revert)
 
-Intel	United States of America
-Intuit	United States of America
-Intel	United States of America
-Intuit	United States of America
-Intel	United States of America
-Intuit	United States of America
-
-Intel	United States of America
-Intuit	United States of America
-Intel	United States of America
-Intuit	United States of America
