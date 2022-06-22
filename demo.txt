@@ -7,16 +7,16 @@ Infineon Technologies Germany
 Infosys	India
 Intel	United States of America
 Intuit	United States of America
-<<<<<<< HEAD
 
-<<<<<<< HEAD
+
+
 git revert from remote repository
-=======
+
 Intel	United States of America
 Intuit	United States of America
->>>>>>> 96bd71892ff207eada755b57bcc5ff9ec01fe1b1
-=======
->>>>>>> parent of 5c83523 (git revert)
+
+
+
 nfineon Technologies Germany
 Infosys	India
 Intel	United States of America
